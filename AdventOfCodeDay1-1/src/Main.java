@@ -7,7 +7,6 @@ import java.util.List;
 public class Main {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
 
 		BufferedReader reader = new BufferedReader(new FileReader("C:\\Users\\jackr\\Desktop\\Advent of code 2021\\Day 1\\input.txt")); // line by line file reader for input file
 		List<Integer> depths = new ArrayList<Integer>(); // list to store depths from input lists as Integers
